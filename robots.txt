@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acatar24.xyz/sitemap.xml
